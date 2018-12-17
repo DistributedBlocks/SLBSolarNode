@@ -5,7 +5,6 @@ import (
 	"encoding/base64"
 	"errors"
 	"net/http"
-	"net/url"
 	"sync"
 	"time"
 
